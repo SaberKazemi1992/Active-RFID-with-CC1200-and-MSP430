@@ -1,4 +1,4 @@
-# Active-RFID-with-CC1200-and-Mega2560
+# Active-RFID-with-CC1200-and-MSP430
 In this project, measurements of 5 sensors are put in the payload of an active RFID system connected to Mega2560. In this system, the user has full control of register configurations. The register configuration is facilitated by SmartRF Studio. 
 
 
@@ -20,6 +20,6 @@ The CC1200 and the CC1120 devices are both part of the high-performance transcei
 CC1120 device is more optimized toward narrowband applications, while the CC1200 device is optimized
 toward wideband applications but can also effectively cover narrowband down to 12.5-kHz channels.
 
-**2- Mega2560**
+**2- MSP430**
 
 The Mega 2560 is a microcontroller board based on the ATmega2560. It has 54 digital input/output pins (of which 15 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. The Mega 2560 board is compatible with most shields designed for the Uno and the former boards Duemilanove or Diecimila.
